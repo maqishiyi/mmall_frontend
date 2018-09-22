@@ -1,0 +1,23 @@
+{
+  "name": "mmall_frontend",
+  "version": "1.0.0",
+  "description": "mmall frontend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqishiyi/mmall_frontend.git"
+  },
+  "author": "maqishiyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maqishiyi/mmall_frontend/issues"
+  },
+  "homepage": "https://github.com/maqishiyi/mmall_frontend#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  },
+  "dependencies": {}
+}
